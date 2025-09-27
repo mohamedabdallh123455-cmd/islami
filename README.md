@@ -1,13 +1,3 @@
-## Frameworks & Languages 
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-FFCA28?style=for-the-badge&logo=google&logoColor=black)
-![pub.dev](https://img.shields.io/badge/pub.dev-000000?style=for-the-badge&logo=dart&logoColor=white)
-
-
 # Islami App
 
 <p align="center">
@@ -19,9 +9,9 @@ A simple Islamic app that contains multiple religious sections such as **Azkar**
 Built with **Flutter** .
 
 
-## Getting Started 🚀
+## Getting Started 
 
-### Dependencies 📦
+### Dependencies 
 
 This project uses the following packages:
 
@@ -31,7 +21,7 @@ This project uses the following packages:
 - [shared_preferences](https://pub.dev/packages/shared_preferences) – Store simple key-value data locally
 - [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator) – Customizable page indicators
 
-### Dev Dependencies 🛠
+### Dev Dependencies 
 - [flutter_test](https://pub.dev/packages/flutter_test) – Testing framework for Flutter
 - [flutter_lints](https://pub.dev/packages/flutter_lints) – Recommended lints for Flutter projects
 
@@ -40,7 +30,7 @@ This project uses the following packages:
 Run these commands in your terminal:
 #### 1. Open Terminal and Clone the Repo
 ```bash
-git clone https://github.com/omararameen77/islami.git
+- get clone https://github.com/mohamedabdallh123455-cmd/islami
 ```
 #### 2. Cd Over
 ```bash
@@ -57,7 +47,7 @@ This App is using **SharedPreferences** To get the Data From Local Data Source
 ## Authors
 
 ```bash
-Omar Ameen
+Mohammed Abdullah 
 ```
 ## Images
 
