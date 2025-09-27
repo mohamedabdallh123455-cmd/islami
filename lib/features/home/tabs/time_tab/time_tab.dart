@@ -22,6 +22,7 @@ class TimeTab extends StatelessWidget {
               Container(
 
                 height: 280,
+                
                 decoration: BoxDecoration(
                   color: AppColors.gold,
                   borderRadius: BorderRadius.circular(40),
